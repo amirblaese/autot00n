@@ -10,8 +10,7 @@ Scipy(rfft,resample), Soundfile, Numpy
 
 ## How to use?
 
-Simply enter the name of your file, then enter the desired scale and the block length that is tuned. If source is not
-mono, an option will be provided to sum to mono.
+This script is meant to be run from the command line. Simply enter the name of your file, then enter the desired scale and the block length that is tuned. If source is not mono, an option will be provided to sum to mono.
 
 ## How does it work?
 
