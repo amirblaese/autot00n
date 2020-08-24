@@ -15,4 +15,4 @@ mono, an option will be provided to sum to mono.
 
 ## How does it work?
 
-The data is first chopped into finite sized blocks. Then an FFT is used to find the peak using a basic peak find (find amplitude). If the peak is not in agreement with the nearest scale frequency, it will be resampled such that the peak is now a scale frequency. The pieces are then resynthesized to a tuned .wav file.
+The data is first chopped into finite sized blocks. Then an FFT is used to find the peak using a basic peak find (find amplitude). If the peak is not in agreement with the nearest scale frequency, it will be resampled such that the peak is that nearest scale frequency. The pieces are then resynthesized to a tuned .wav file.
