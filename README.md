@@ -2,7 +2,7 @@
 
 ## About
 
-Simple autotune script to tune .wav files. Works best with monophonous sources.
+Simple autotune script to tune .wav files. Works best with monophonic sources.
 
 ## Dependencies
 
